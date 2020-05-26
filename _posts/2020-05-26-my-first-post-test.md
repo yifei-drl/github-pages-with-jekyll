@@ -1,1 +1,4 @@
-This is a testing post.
+---
+title: "MY-FIRST-POST-TEST"
+date: 2020-05-26
+---
